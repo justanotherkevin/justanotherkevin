@@ -1,13 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on helping learner master their materials.<br>👯 I’m looking to collaborate on finance, education, and self development.<br>🌱 I’m currently learning SEO 
-
-
-## 🌐 Socials:
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/tickle-tickle) 
-
-# 💫 About Me:
 🔭 I’m currently working on helping learner master their materials.<br>👯 I’m looking to collaborate on finance, education, and self development.<br>🌱 I’m currently learning SEO
-
 
 ## 🌐 Socials:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=flate&logo=codepen&logoColor=white)](https://codepen.io/tickle-tickle) 
@@ -28,18 +20,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=justanotherkevin&icon=5&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anotherkevin&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anotherkevin&theme=gruvbox&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anotherkevin&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=anotherkevin&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
